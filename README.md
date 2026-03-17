@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhaWVzZWF6d3FoeGJxZG5oMTR0YW9ncmplem1rbjgwYmg1NmNrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="300"/>
+</p>
 # 👋 Hola, soy Eva Katherine Mayser Vanea
 
 Bienvenido a mi perfil de GitHub. Aquí podrás ver los temas que he trabajado durante mi curso de **Programación en Java**.  
