@@ -4,22 +4,35 @@
 
 # 👋 Hola, soy Eva Katherine Mayser Vanea
 
-Bienvenido a mi perfil de GitHub. Aquí podrás ver los temas que he trabajado durante mi curso de **Programación en Java**.  
+Bienvenid@ a mi perfil de GitHub. Soy estudiante de **Programación en Java** y aquí comparto los temas que he trabajado durante mi curso. 🚀  
 
 ---
 
-## 📚 Unidades
+## 📚 Unidades Didácticas
 
-- **UD02 - JAVA y su sintaxis**  
-- **UD03 - Condicionales, bucles y métodos**  
-- **UD04 - Tablas (Arrays)**  
-- **UD05 - Cadenas de caracteres**  
-- **UD06 - Clases**  
-- **UD07 - Herencia**  
+- 💻 **UD02 - JAVA y su sintaxis**  
+- 🔄 **UD03 - Condicionales, bucles y métodos**  
+- 📊 **UD04 - Tablas (Arrays)**  
+- ✍️ **UD05 - Cadenas de caracteres**  
+- 🏗️ **UD06 - Clases**  
+- 🌳 **UD07 - Herencia**  
 
 ---
 
-## ⚡ Tecnologías usadas
-- Java  
-- NetBeans / Visual Studio Code  
-- Git y GitHub
+## ⚡ Tecnologías y herramientas
+
+| Lenguaje | Entorno de desarrollo | Control de versiones |
+|----------|---------------------|-------------------|
+| Java     | NetBeans / Visual | Git / GitHub |
+
+---
+
+
+> “Aprender a programar es construir herramientas que pueden cambiar el mundo, una línea de código a la vez.” 💡
+
+---
+
+
+## 📈 Estadísticas de GitHub
+
+![evamayser04 GitHub stats](https://github-readme-stats.vercel.app/api?username=evamayser04&show_icons=true&theme=radical)
