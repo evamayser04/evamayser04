@@ -1,38 +1,36 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhaWVzZWF6d3FoeGJxZG5oMTR0YW9ncmplem1rbjgwYmg1NmNrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="300"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhaWVzZWF6d3FoeGJxZG5oMTR0YW9ncmplem1rbjgwYmg1NmNrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="300"/> </p>
 
-# 👋 Hola, soy Eva Katherine Mayser Vanea
+👋 Hola, soy Eva Katherine Mayser Vanea
+Bienvenid@ a mi perfil de GitHub. 👩‍💻
 
-Bienvenid@ a mi perfil de GitHub. Soy estudiante de **Programación en Java** y aquí comparto los temas que he trabajado durante mi curso. 🚀  
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y este repositorio recoge mi aprendizaje y evolución durante todo el ciclo.
 
----
+Aquí iré subiendo los ejercicios, prácticas y proyectos que vaya realizando a lo largo de 1º y 2º de DAM. 🚀
 
-## 📚 Unidades Didácticas
+💻 Mi progreso en DAM
+Este repositorio es una recopilación de todo lo que voy aprendiendo durante mi formación como desarrolladora.
 
-- 💻 **UD02 - JAVA y su sintaxis**  
-- 🔄 **UD03 - Condicionales, bucles y métodos**  
-- 📊 **UD04 - Tablas (Arrays)**  
-- ✍️ **UD05 - Cadenas de caracteres**  
-- 🏗️ **UD06 - Clases**  
-- 🌳 **UD07 - Herencia**  
+📚 1º DAM → Aprendizaje y primeros proyectos
 
----
+🚀 2º DAM → Nuevos retos y proyectos más completos
 
-## ⚡ Tecnologías y herramientas
+🔨 En constante actualización...
 
-| Lenguaje | Entorno de desarrollo | Control de versiones |
-|----------|---------------------|-------------------|
-| Java     | NetBeans / Visual | Git / GitHub |
+🛠️ Tecnologías y herramientas
+☕ Java
+🐦 Flutter
+🗄️ SQL
+🌐 HTML / CSS
+📱 Android Studio
+💻 NetBeans
+📝 Visual Studio Code
+🔧 Git / GitHub
+📂 Sobre este repositorio
+Este repositorio irá creciendo a medida que avance en DAM.
 
----
+Aquí iré recopilando mis trabajos y proyectos, desde los primeros ejercicios hasta aplicaciones más completas, utilizando las herramientas y tecnologías que vaya aprendiendo durante el ciclo. 💻✨
 
+Mi objetivo es poder ver mi evolución como desarrolladora desde el comienzo de 1º DAM hasta finalizar 2º DAM.
 
-> “Aprender a programar es construir herramientas que pueden cambiar el mundo, una línea de código a la vez.” 💡
-
----
-
-
-## 📈 Estadísticas de GitHub
-
-![evamayser04 GitHub stats](https://github-readme-stats.vercel.app/api?username=evamayser04&show_icons=true&theme=radical)
+📊 Estadísticas de GitHub
+!evamayser04 GitHub stats
