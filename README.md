@@ -1,36 +1,59 @@
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhaWVzZWF6d3FoeGJxZG5oMTR0YW9ncmplem1rbjgwYmg1NmNrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="300"/> </p>
+<div align="center">
 
-👋 Hola, soy Eva Katherine Mayser Vanea
-Bienvenid@ a mi perfil de GitHub. 👩‍💻
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhaWVzZWF6d3FoeGJxZG5oMTR0YW9ncmplem1rbjgwYmg1NmNrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="500"/>
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y este repositorio recoge mi aprendizaje y evolución durante todo el ciclo.
+Eva Katherine Mayser Vanea
 
-Aquí iré subiendo los ejercicios, prácticas y proyectos que vaya realizando a lo largo de 1º y 2º de DAM. 🚀
+Desarrollo de Aplicaciones Multiplataforma · DAM
 
-💻 Mi progreso en DAM
-Este repositorio es una recopilación de todo lo que voy aprendiendo durante mi formación como desarrolladora.
+<p> <img src="https://img.shields.io/badge/Student-DAM-7B68EE?style=flat-square"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> </p>
 
-📚 1º DAM → Aprendizaje y primeros proyectos
+</div>
 
-🚀 2º DAM → Nuevos retos y proyectos más completos
+👩‍💻 Sobre mí
 
-🔨 En constante actualización...
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-🛠️ Tecnologías y herramientas
-☕ Java
-🐦 Flutter
-🗄️ SQL
-🌐 HTML / CSS
-📱 Android Studio
-💻 NetBeans
-📝 Visual Studio Code
-🔧 Git / GitHub
-📂 Sobre este repositorio
-Este repositorio irá creciendo a medida que avance en DAM.
+Este repositorio reúne mi trabajo durante el ciclo, desde los primeros ejercicios y proyectos de 1º DAM hasta los nuevos desarrollos que iré realizando en 2º DAM.
 
-Aquí iré recopilando mis trabajos y proyectos, desde los primeros ejercicios hasta aplicaciones más completas, utilizando las herramientas y tecnologías que vaya aprendiendo durante el ciclo. 💻✨
+El contenido se irá actualizando a medida que avance en mi formación.
 
-Mi objetivo es poder ver mi evolución como desarrolladora desde el comienzo de 1º DAM hasta finalizar 2º DAM.
+🧰 Tecnologías
 
-📊 Estadísticas de GitHub
-!evamayser04 GitHub stats
+<div align="center">
+
+	
+<img src="https://skillicons.dev/icons?i=java" width="45"/>	Java
+<img src="https://skillicons.dev/icons?i=flutter" width="45"/>	Flutter
+<img src="https://skillicons.dev/icons?i=dart" width="45"/>	Dart
+<img src="https://skillicons.dev/icons?i=androidstudio" width="45"/>	Android Studio
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>	MySQL
+<img src="https://skillicons.dev/icons?i=git" width="45"/>	Git / GitHub
+
+</div>
+
+📁 Proyectos
+1º DAM
+
+Proyectos y prácticas realizados durante el primer curso, incluyendo los desarrollos realizados con Flutter.
+
+2º DAM
+
+Nuevos proyectos y aplicaciones que iré incorporando durante el segundo curso, principalmente trabajando con Android Studio.
+
+Este apartado se irá actualizando a medida que añada nuevos proyectos.
+📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=evamayser04&showicons=true&theme=radical&hideborder=true&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+DAM · 1º → 2º
+
+Learning · Developing · Improving
+
+</div>
